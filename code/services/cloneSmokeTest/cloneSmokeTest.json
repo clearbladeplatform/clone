@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,clone",
+    "logging_enabled": "false",
+    "name": "cloneSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "cloneSmokeTest.js"
+}
